@@ -1,2 +1,1 @@
-# yichicharlie-gmail.com
-Deep Learning Competitions
+# Deep Learning Competitions
